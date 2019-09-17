@@ -1,5 +1,8 @@
 package com.pradeep.queue;
 
+/**
+ * Test a queue
+ */
 public class QueueTest {
     public static void main(String[] args) throws Exception{
         Queue<String> queue = new Queue<>();
