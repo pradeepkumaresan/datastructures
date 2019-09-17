@@ -1,6 +1,6 @@
-package com.pradeep.queue;
+package com.pradeep.datastructures.queue;
 
-import com.pradeep.exceptions.QueueOverFlowException;
+import com.pradeep.datastructures.exceptions.QueueOverFlowException;
 
 /**
  *

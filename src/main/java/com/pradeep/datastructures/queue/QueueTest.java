@@ -1,4 +1,4 @@
-package com.pradeep.queue;
+package com.pradeep.datastructures.queue;
 
 /**
  * Test a queue

@@ -1,4 +1,4 @@
-package com.pradeep.stack;
+package com.pradeep.datastructures.stack;
 
 public class StackTest {
     public static void main(String[] args) throws Exception {

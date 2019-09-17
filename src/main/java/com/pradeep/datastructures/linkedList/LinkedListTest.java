@@ -1,4 +1,4 @@
-package com.pradeep.linkedList;
+package com.pradeep.datastructures.linkedList;
 
 public class LinkedListTest {
     public static void main(String[] args) throws Exception{
