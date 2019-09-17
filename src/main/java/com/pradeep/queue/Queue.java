@@ -50,6 +50,15 @@ public class Queue<T> {
         return head == null;
     }
 
+    public void printQueue(){
+        Node<T> node = head;
+        while(node != null){
+            System.out.print(node.val + " ");
+            node = node.nextNode;
+        }
+        System.out.println();
+    }
+
     /**
      *
      * @param <T>
