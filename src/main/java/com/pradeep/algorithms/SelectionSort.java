@@ -4,6 +4,7 @@ package com.pradeep.algorithms;
  * In place sorting. O(N) space complexity.
  * O(N2) - time complexity.
  * Not a stable sort. Equal items might be rearranged.
+ * O(N) swaps
  */
 public class SelectionSort {
 

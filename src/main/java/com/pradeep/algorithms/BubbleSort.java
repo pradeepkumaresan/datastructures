@@ -1,9 +1,14 @@
 package com.pradeep.algorithms;
 
 /**
+ * Best case - nearly sorted list.
+ * worst case - list is sorted in reverse order.
  * In place sorting. O(N) space complexity.
  * O(N2) - time complexity.
- * Not a stable sort. Equal items might be rearranged.
+ * O(N2) swaps
+ * adaptive sort. If swap does not happen in an inner iteration, sort is ended as -
+ * list is already sorted.
+ * stable sort - order 2 equal elements will be maintained.
  */
 public class BubbleSort {
 
