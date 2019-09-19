@@ -1,4 +1,4 @@
-package com.pradeep.algorithms;
+package com.pradeep.algorithms.sorting;
 
 /**
  * Best case - nearly sorted list.

@@ -1,4 +1,4 @@
-package com.pradeep.algorithms;
+package com.pradeep.algorithms.sorting;
 
 public class SortUtils {
     public static void swap(int i, int j, int[] array) {
