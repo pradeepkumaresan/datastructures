@@ -3,7 +3,8 @@ package com.pradeep.algorithms.searching;
 import com.pradeep.algorithms.sorting.SortUtils;
 
 /**
-
+ * O(log n) time complexity.
+ *
  */
 public class BinarySearch {
 
