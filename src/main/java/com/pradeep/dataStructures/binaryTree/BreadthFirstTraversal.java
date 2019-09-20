@@ -1,7 +1,7 @@
-package com.pradeep.datastructures.binarytree;
+package com.pradeep.dataStructures.binaryTree;
 
-import com.pradeep.datastructures.exceptions.QueueOverFlowException;
-import com.pradeep.datastructures.queue.Queue;
+import com.pradeep.dataStructures.exceptions.QueueOverFlowException;
+import com.pradeep.dataStructures.queue.Queue;
 
 /**
  * Nodes at one level will all be processed first before moving to next level.

@@ -1,4 +1,4 @@
-package com.pradeep.datastructures.binarytree;
+package com.pradeep.dataStructures.binaryTree;
 
 public class Node<T> {
     private T value;

@@ -1,4 +1,4 @@
-package com.pradeep.datastructures.stack;
+package com.pradeep.dataStructures.stack;
 
 /**
  *

@@ -1,7 +1,7 @@
-package com.pradeep.datastructures.stack;
+package com.pradeep.dataStructures.stack;
 
-import com.pradeep.datastructures.exceptions.StackOverFlowException;
-import com.pradeep.datastructures.exceptions.StackUnderFlowException;
+import com.pradeep.dataStructures.exceptions.StackOverFlowException;
+import com.pradeep.dataStructures.exceptions.StackUnderFlowException;
 
 /**
  *

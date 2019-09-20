@@ -1,4 +1,4 @@
-package com.pradeep.datastructures.exceptions;
+package com.pradeep.dataStructures.exceptions;
 
 public class StackOverFlowException extends Exception{
 

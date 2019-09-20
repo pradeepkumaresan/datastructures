@@ -1,4 +1,4 @@
-package com.pradeep.datastructures.linkedList;
+package com.pradeep.dataStructures.linkedList;
 
 public class LinkedList<T> {
     private Node<T> head;
