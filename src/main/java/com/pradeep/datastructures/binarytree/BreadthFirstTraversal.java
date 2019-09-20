@@ -3,6 +3,10 @@ package com.pradeep.datastructures.binarytree;
 import com.pradeep.datastructures.exceptions.QueueOverFlowException;
 import com.pradeep.datastructures.queue.Queue;
 
+/**
+ * Nodes at one level will all be processed first before moving to next level.
+ * Starting from root.
+ */
 public class BreadthFirstTraversal {
 
     public void traverse(Node root) throws QueueOverFlowException {
@@ -14,7 +18,7 @@ public class BreadthFirstTraversal {
         queue.enQueue(root);
         while(!queue.isEmpty()){
             Node node = queue.deQueue();
-            System.out.println(node.toString());
+            System.out.println(node.getValue());
 
             if(node.getLeftChild() != null)
                 queue.enQueue(node.getLeftChild());
