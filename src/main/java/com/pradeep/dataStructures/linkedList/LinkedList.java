@@ -43,7 +43,7 @@ public class LinkedList<T> {
         System.out.println();
     }
 
-    private class Node<T> {
+    public class Node<T> {
         private T value;
         private Node<T> nextElement;
         private Node<T> previousElement;
@@ -72,7 +72,7 @@ public class LinkedList<T> {
             nextElement = node;
         }
 
-        Node<T> getNextElement() {
+        public Node<T> getNext() {
             return nextElement;
         }
     }
