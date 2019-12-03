@@ -1,6 +1,5 @@
-package com.pradeep.algorithms.linkedList;
+package com.pradeep.algorithms.linkedListProblems;
 
-import com.pradeep.dataStructures.linkedList.LinkedList;
 import com.pradeep.dataStructures.linkedList.LinkedList.Node;
 
 /**
